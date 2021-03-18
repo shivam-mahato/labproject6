@@ -20,6 +20,6 @@ print(f"time taken by running is {total_walk_time} ")
 if total_time > total_walk_time :
      print("Taking bus is slower than running ")
 else:
-    print("wa;king to university is faster ")
+    print("walking to university is faster ")
 
 
